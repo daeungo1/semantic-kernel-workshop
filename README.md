@@ -24,24 +24,8 @@ AZURE_OPENAI_EMBEDDING_DEPLOYMENT_NAME=text-embedding-ada-002
 
 A2A_SERVER_URL=http://0.0.0.0:9999
 
-## Interactive Playground Demo
 
-Experience Semantic Kernel in action through our interactive playground! This visual demonstration allows you to directly engage with the core concepts covered in the workshop.
-
-![Semantic Kernel Playground Demo](playground/assets/sk-playground.gif)
-
-The playground offers a hands-on environment where you can:
-- Test semantic functions in real-time
-- Explore agent capabilities and interactions
-- Experiment with memory and embeddings
-- Try out native plugin integration
-- See the Process Framework in action
-
-No need to wait until the end of the workshop - you can start exploring the playground at any time to reinforce concepts as you learn them!
-
-For setup instructions and details on how to run the playground, refer to the [Playground README](playground/README.md).
-
-## Prerequisites
+# Prerequisites
 
 - Python 3.10 or higher
 - Azure OpenAI API access (API key, endpoint, and deployment name)
@@ -205,6 +189,25 @@ For advanced patterns and enterprise deployment scenarios, explore the [Semantic
 - Copilot Studio integration
 - Microsoft Graph API integration
 - Production deployment architecture
+
+## Interactive Playground Demo
+
+Experience Semantic Kernel in action through our interactive playground! This visual demonstration allows you to directly engage with the core concepts covered in the workshop.
+
+![Semantic Kernel Playground Demo](playground/assets/sk-playground.gif)
+
+The playground offers a hands-on environment where you can:
+- Test semantic functions in real-time
+- Explore agent capabilities and interactions
+- Experiment with memory and embeddings
+- Try out native plugin integration
+- See the Process Framework in action
+
+No need to wait until the end of the workshop - you can start exploring the playground at any time to reinforce concepts as you learn them!
+
+For setup instructions and details on how to run the playground, refer to the [Playground README](playground/README.md).
+
+
 
 ## Additional Resources
 
