@@ -16,10 +16,13 @@ This workshop takes you from foundational concepts to advanced implementation pa
 
   
 # ENDPOINT (복사하셔서 파일 .env 에 붙여넣기) :
+
 ## #Azure OpenAI configuration
+
 AZURE_OPENAI_ENDPOINT= https://aoai-korea-1.openai.azure.com/
 
 AZURE_OPENAI_API_KEY=BAONX8pQrLdVsoRebmtGSSV5YFF9h8c4vOIdGHXh127AdqE2HJX0JQQJ99BIACNns7RXJ3w3AAABACOGrgiw
+
 AZURE_OPENAI_API_VERSION=2025-03-01-preview
 
 AZURE_OPENAI_CHAT_DEPLOYMENT_NAME=gpt-4o   # gpt-4.1
@@ -27,6 +30,8 @@ AZURE_OPENAI_CHAT_DEPLOYMENT_NAME=gpt-4o   # gpt-4.1
 AZURE_OPENAI_EMBEDDING_DEPLOYMENT_NAME=text-embedding-ada-002
 
 A2A_SERVER_URL=http://0.0.0.0:9999
+
+
 
 
 # Prerequisites
