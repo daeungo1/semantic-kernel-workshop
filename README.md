@@ -12,8 +12,8 @@ This workshop takes you from foundational concepts to advanced implementation pa
 - Implement enterprise-ready AI features with security and scalability in mind
 
   
-# ENDPOINT:
-## Azure OpenAI configuration
+# ENDPOINT (복사하셔서 파일 .env 에 붙여넣기) :
+## #Azure OpenAI configuration
 AZURE_OPENAI_ENDPOINT= https://aoai-korea-1.openai.azure.com/
 AZURE_OPENAI_API_KEY=BAONX8pQrLdVsoRebmtGSSV5YFF9h8c4vOIdGHXh127AdqE2HJX0JQQJ99BIACNns7RXJ3w3AAABACOGrgiw
 AZURE_OPENAI_API_VERSION=2025-03-01-preview
