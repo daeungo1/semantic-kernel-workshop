@@ -2,6 +2,9 @@
 
 A hands-on workshop exploring Microsoft's Semantic Kernel framework for building intelligent AI applications. This workshop provides practical experience with real-world AI application patterns using Python and Azure OpenAI.
 
+<img width="768" height="769" alt="image" src="https://github.com/user-attachments/assets/8cd6c30a-a52f-4a6f-b962-c7f076ced166" />
+
+
 ## Workshop Overview
 
 This workshop takes you from foundational concepts to advanced implementation patterns through a series of Jupyter notebooks and practical examples. You'll learn how to:
